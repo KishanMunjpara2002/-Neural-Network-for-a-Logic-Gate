@@ -67,7 +67,7 @@ Here is an example of how to visualize the XOR gate:
 
 1. Run the script:
    ```bash
-   python logic_gate_visualization.py
+   python Sodhai.py
    ```
 2. In the web interface, set the parameters:
    - **Logic Gate**: XOR

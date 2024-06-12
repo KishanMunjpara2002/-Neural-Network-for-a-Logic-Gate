@@ -1,5 +1,3 @@
-Sure! Here's a README file for your project, including details about specific values for each logic gate to achieve expected results.
-
 ---
 
 # Logic Gate Neural Network Visualizer
@@ -22,28 +20,12 @@ This project provides an interactive interface to visualize the decision boundar
 
 ## Installation
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/logic-gate-visualizer.git
-   cd logic-gate-visualizer
-   ```
-
-2. Install the required packages:
+1. Install the required packages:
 
    ```bash
    pip install numpy matplotlib scikit-learn gradio
    ```
-
-## Usage
-
-Run the script to launch the interactive interface:
-
-```bash
-python logic_gate_visualization.py
-```
-
-This will open a local Gradio interface in your web browser where you can interact with the visualizer.
 
 ## Logic Gate Parameters
 
